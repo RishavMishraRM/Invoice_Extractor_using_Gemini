@@ -1,5 +1,5 @@
 # Invoice_Extractor_App
 
-#### Frontend :
+#### Frontend : Streamlit
 
 #### Backend :
