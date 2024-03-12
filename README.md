@@ -4,4 +4,4 @@
 
 #### Backend : Gemini
 
-#### Database :
+#### Database : ChromaDB
