@@ -2,4 +2,4 @@
 
 #### Frontend : Streamlit
 
-#### Backend :
+#### Backend : Gemini
