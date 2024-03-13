@@ -1,6 +1,6 @@
 # Invoice_Extractor_App
 
-#### Frontend : Streamlit
+#### Frontend Website: Streamlit
 
 #### Backend : Gemini
 
