@@ -6,4 +6,4 @@
 
 #### Database : ChromaDB
 
-#### langchain_google_genai
+#### Library : langchain_google_genai
