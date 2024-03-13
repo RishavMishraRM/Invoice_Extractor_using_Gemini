@@ -5,3 +5,5 @@
 #### Backend : Gemini
 
 #### Database : ChromaDB
+
+langchain_google_genai
